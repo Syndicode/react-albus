@@ -1,7 +1,7 @@
 import path from 'path';
 
 module.exports = {
-  entry: './index.dev.js',
+  entry: './examples/index.dev.js',
   module: {
     rules: [
       {
@@ -22,7 +22,7 @@ module.exports = {
   resolve: {
     extensions: ['.js', '.jsx', '.scss'],
     alias: {
-      'react-albus': path.resolve(__dirname, 'src'),
+      '@syndicode/react-dumbledore': path.resolve(__dirname, 'src'),
     },
   },
 };

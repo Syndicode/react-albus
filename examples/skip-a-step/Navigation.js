@@ -1,5 +1,5 @@
 import React from 'react';
-import { WithWizard } from 'react-albus';
+import { WithWizard } from '@syndicode/react-dumbledore';
 
 const Navigation = () => (
   <WithWizard

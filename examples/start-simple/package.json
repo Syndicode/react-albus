@@ -6,7 +6,7 @@
   "dependencies": {
     "prop-types": "15.6.0",
     "react": "16.2.0",
-    "react-albus": "2.0.0",
+    "@syndicode/react-dumbledore": "2.0.0",
     "react-dom": "16.2.0"
   }
 }

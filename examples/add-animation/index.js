@@ -2,7 +2,7 @@ import React from 'react';
 import { render } from 'react-dom';
 import { BrowserRouter, Route } from 'react-router-dom';
 import { TransitionGroup, CSSTransition } from 'react-transition-group';
-import { Wizard, Steps, Step } from 'react-albus';
+import { Wizard, Steps, Step } from '@syndicode/react-dumbledore';
 import Navigation from './Navigation';
 import './exampleAnimation.css';
 
